@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+BDAY;VALUE=DATE:2001-10-10
+NOTE: Chào tất cả các bạn, lại là Thượng đâyy ♥ !!
+URL;CHARSET=UTF-8:
+PHOTO;TYPE=JPEG;VALUE=URL:https://nhatminhit.github.io/iconcanhan.png
+FN;CHARSET=UTF-8:Nguyễn Xuân Thượng 
+N;CHARSET=UTF-8:;Nguyễn Xuân Thượng;;;
+ORG;CHARSET=UTF-8:Xuân Thượng Photographer;
+TEL;TYPE=CELL:0348102386
+Email;TYPE=Email:thuonganhdl11@gmail.com
+END:VCARD
